@@ -1,0 +1,3 @@
+﻿  мас.cpp
+C:\Users\Александр\source\repos\мас\мас\мас.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  мас.vcxproj -> C:\Users\Александр\source\repos\мас\x64\Debug\мас.exe
