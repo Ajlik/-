@@ -1,0 +1,30 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    setlocale(LC_ALL, "RU");
+int res;
+int mass[100];
+
+ int i;
+  for(int i =-100; i < 0; i++) 
+      
+     { /*if (dev == -23,-21,-19,-17,-15, -13, -11, -9, -7, -5, -3, -1);
+        dev= i ;
+      
+       else if (dev == -24,-22,-20,-18,-16, -14, -12, -10, -8, -6, -4, -2);
+        dev= i;*/
+        
+        res= i % 2 ;
+        
+        if (res==0)
+         cout<< i;
+        
+         
+      
+        
+    }
+    
+    return 0;
+}
